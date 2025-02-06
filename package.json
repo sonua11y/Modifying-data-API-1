@@ -5,6 +5,27 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.18.2"
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.10.0"
+  },
+  "version": "1.0.0",
+  "description": "You have been hired by a local restaurant to develop a simplified backend system for managing their online menu. The restaurant needs the following functionality:",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonua11y/Modifying-data-API-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sonua11y/Modifying-data-API-1/issues"
+  },
+  "homepage": "https://github.com/sonua11y/Modifying-data-API-1#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
   }
 }
